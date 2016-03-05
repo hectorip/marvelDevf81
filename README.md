@@ -1,5 +1,5 @@
 ## marvelDevf81
 
-#Hagamos nuestros propios superheroes Que les gusten los juegos de asar y las mujersuelas!
+Hagamos nuestros propios superheroes Que les gusten los juegos de azar.
 
 #con un poco de Pizza
